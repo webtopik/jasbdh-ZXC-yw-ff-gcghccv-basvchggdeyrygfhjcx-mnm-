@@ -1,5 +1,5 @@
 {
-  "api_url": "https://contoh.com",
+  "api_url": "http://10.0.2.2/api",
   "app_version": "1.0",
   "min_version": "1.0",
   "force_update": false,
