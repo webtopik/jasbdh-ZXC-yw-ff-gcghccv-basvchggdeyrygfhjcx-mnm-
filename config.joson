@@ -1,6 +1,6 @@
 {
   "api_url": "https://otser.rf.gd",
-  "app_version": "1.4.0+1",
+  "app_version": "6.4.0+1",
   "min_version": "1.4.0+1",
   "force_update": false,
   "update_url": "https://contoh.com/update"
